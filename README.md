@@ -1,6 +1,7 @@
 # kali-repo
 
-> script to add kali repo to aptitude system \n
+> script to add kali repo to aptitude system.
+
 > Use it in VPS
 
 
