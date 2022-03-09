@@ -37,4 +37,4 @@ echo -e "${RED}gobuster: sudo apt install gobuster"
 BOLD=$(tput bold)
 
 echo -e "${RED}dirsearch: sudo apt install dirsearch"
-echo -e "${RED}${BOLD}Dont run any script blindly from github/ Stay Safe"
+
