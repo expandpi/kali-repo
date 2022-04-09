@@ -12,7 +12,7 @@ sudo apt update && sudo apt upgrade -y
 
 
 echo -e "${RED}Adding Kali Repo"
-sudo sh -c "echo 'deb https://http.kali.org/kali kali-rolling main non-free contrib' > /etc/apt/sources.list.d/kali.list"
+sudo sh -c "echo 'deb http://http.kali.org/kali kali-rolling main contrib non-free' > /etc/apt/sources.list.d/kali.list"
 
 
 echo -e "${RED}Installing gnupg"
